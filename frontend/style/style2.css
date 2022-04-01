@@ -1,0 +1,109 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+}
+.top {
+    width: 100%;
+    height: 100vh;
+    background-image: url(../images/peace-genius-g214276fa6_1920.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.topbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-left: 3%;
+    padding-right: 3%;}
+.logo img {
+    width: 110px;
+}
+nav ul li {
+    display: inline-block;
+    padding: 25px 25px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #efefef;
+}
+.top h1 {
+    color: #efefef;
+    text-align: center;
+    font-size: 30pt;
+    margin-top: 15%;
+    padding: 0;
+}
+.top p {
+    color: #efefef;
+    text-align: center;
+    margin-top: 8px;
+}
+.bottom {
+    background-color: #efefef;
+    height: 50vh;
+}
+.bagiankiri {
+    width: 45%;
+    margin-left: 25px;
+    float: left;
+}
+.bagiankanan {
+    width: 45%;
+    margin-right: 25px;
+    float: right;
+}
+.artikel img {
+    width: 75px;
+    margin: auto;
+    margin-top: 45px;
+    display: block;
+}
+.artikel h2 {
+    text-align: center;
+    margin-top: 10px;
+}
+.artikel h4 {
+    text-align: center;
+    margin-top: 8px;
+}
+.artikel p {
+    text-align: justify;
+    margin: auto;
+    margin-top: 10px;
+    font-size: 10pt;
+}
+#satu {
+    display: none;
+}
+#dua {
+    display: none;}
+button {
+    background-color: #2991B5;
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11pt;
+    margin: auto;
+    display: block;}
+.tombol {
+    margin-top: 10px;
+}
+footer {
+    background-color: rgb(56, 54, 54);
+    color: #efefef;
+    text-align: center;
+    padding: 2vh;
+    width: 100%;
+}
+

@@ -1,0 +1,27 @@
+.p1{
+    color: aqua;
+    text-align: justify;
+    text-decoration-line:underline;
+    text-decoration-color: black;
+}
+
+h1{
+    font-family: Arial;
+    font-size: 100px;
+    font-weight: 300;
+    font-variant: small-caps;
+
+}
+
+p{
+    color: brown;
+}
+
+body{
+    background-color: blue;
+    background-image: url(/frontend/images/logoIG.png);
+}
+
+ul{
+    list-style-type: armenian;
+}
